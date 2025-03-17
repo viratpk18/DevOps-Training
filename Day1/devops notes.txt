@@ -1,0 +1,25 @@
+SDLC  -- Software Development Life Cycle
+	planning
+	request gathering
+	design
+	implementation (coding)
+	testing
+	deployment and maintaince
+	
+	
+----------***------------
+
+
+Software models 
+	Waterfall
+	Sprial
+	Iterative / Incremental
+	V model
+	Agile
+	Rad
+	Prototype
+	
+
+----------***------------
+
+
